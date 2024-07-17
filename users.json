@@ -1,6 +1,10 @@
 {
     "users": [
-        {"login": "admin", "password": "123", "days": 30},
-        {"login": "user2", "password": "pass2", "days": 15}
+        {
+            "login": "user1",
+            "password": "pass1",
+            "unique_code": "abcd1234",
+            "days": 30
+        }
     ]
 }
